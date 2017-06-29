@@ -1,0 +1,10 @@
+c:\users\marc\documents\visual studio 2010\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+c:\users\marc\documents\visual studio 2010\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+c:\users\marc\documents\visual studio 2010\Projects\Exercise3\Exercise3\obj\x86\Debug\Exercise3.exe
+c:\users\marc\documents\visual studio 2010\Projects\Exercise3\Exercise3\obj\x86\Debug\Exercise3.pdb
+F:\Exercise3\Exercise3\obj\x86\Debug\Exercise3.exe
+F:\Exercise3\Exercise3\obj\x86\Debug\Exercise3.pdb
+F:\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+F:\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+E:\Exercise3\Exercise3\obj\x86\Debug\Exercise3.exe
+E:\Exercise3\Exercise3\obj\x86\Debug\Exercise3.pdb
