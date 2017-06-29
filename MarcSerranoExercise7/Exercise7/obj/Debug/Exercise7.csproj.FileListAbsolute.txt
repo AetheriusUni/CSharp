@@ -1,0 +1,13 @@
+E:\MarcSerranoExercise7\Exercise7\bin\Debug\Exercise7.exe.config
+E:\MarcSerranoExercise7\Exercise7\bin\Debug\Exercise7.exe
+E:\MarcSerranoExercise7\Exercise7\bin\Debug\Exercise7.pdb
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.csprojResolveAssemblyReference.cache
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\MainWindow.baml
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\MainWindow.g.cs
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\App.g.cs
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7_MarkupCompile.cache
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.g.resources
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.Properties.Resources.resources
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.csproj.GenerateResource.Cache
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.exe
+E:\MarcSerranoExercise7\Exercise7\obj\Debug\Exercise7.pdb
