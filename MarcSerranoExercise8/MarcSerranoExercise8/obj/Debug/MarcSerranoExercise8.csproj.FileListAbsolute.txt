@@ -1,0 +1,12 @@
+E:\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.exe.config
+E:\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.exe
+E:\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.pdb
+E:\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.csprojResolveAssemblyReference.cache
+E:\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.exe
+E:\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.pdb
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.exe.config
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.exe
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.pdb
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.exe
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\bin\Debug\MarcSerranoExercise8.pdb
+F:\ECE256\MarcSerranoExercise8\MarcSerranoExercise8\obj\Debug\MarcSerranoExercise8.csprojResolveAssemblyReference.cache
